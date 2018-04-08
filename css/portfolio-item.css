@@ -1,0 +1,71 @@
+/*!
+ * Start Bootstrap - Portfolio Item (https://startbootstrap.com/template-overviews/portfolio-item)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-portfolio-item/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+  background-image: url('rainbow-content-bg.jpg');
+  background-color: #F4F6F5;
+  height: 100%;
+  background-size: repeat;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+.navbar-custom {
+	background-color: rgba(235, 222, 180, 0.86);
+  font-size: 1.3rem;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  color: white;
+  font-family: 'Times New Roman', Georgia, sans-serif;
+
+}
+
+a, .nav-link {
+  color: #196d92;
+}
+
+a:hover,
+a:focus,
+.nav-link.active {
+  color: #64572a;
+  text-decoration: none;
+  outline: none;
+}
+
+.my-4 {
+  color: #64572a;
+}
+.py-5 {
+	background-color: rgba(235, 222, 180, 1);
+  color: #64572a;
+}
+
+.subtitulo {
+	font-size: 18px;
+}
+
+
+.button {
+    background-color: #E7B3A8;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
